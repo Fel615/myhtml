@@ -13,4 +13,8 @@ h1, h2 {
     background-color: #f0f0f0; /* 好みの背景色に変更 */
     color: #333333; /* 好みの文字色に変更 */
 }
+body {
+    background-image: url('bg.png');
+    background-size: cover; /* 背景画像のサイズを調整 */
+}
 
