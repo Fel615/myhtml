@@ -9,3 +9,8 @@ h1{
 h2{
     font-size:1.5rem;
 }
+h1, h2 {
+    background-color: #f0f0f0; /* 好みの背景色に変更 */
+    color: #333333; /* 好みの文字色に変更 */
+}
+
